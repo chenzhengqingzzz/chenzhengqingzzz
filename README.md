@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤝 I'm a Web Front-end Developer from China
+- 🤝 I'm a Web Front-end Developer from China.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to JavaScript/Vue/React.
