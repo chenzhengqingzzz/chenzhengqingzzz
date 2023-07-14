@@ -40,6 +40,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 <!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=chenzhengqingzzz&theme=xcode" /> </div> -->
 <!-- <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenzhengqingzzz" /> </div> -->
 
+![image](https://github.com/chenzhengqingzzz/chenzhengqingzzz/assets/101351610/2c9408b7-207f-421d-afea-43e0fb34cb61)
 
 
 ### My Skill Set 
