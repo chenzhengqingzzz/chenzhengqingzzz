@@ -28,7 +28,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 <p>
   <a href="https://github.com/chenzhengqingzzz"><img src="https://img.shields.io/badge/GitHub-black" alt="github"></a>
   <img src="https://img.shields.io/badge/weChat-chen1484324318-brightgreen" alt="juejin">
-</p>
+</p>.
 
 
 
